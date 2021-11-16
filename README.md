@@ -1,4 +1,4 @@
 # PR-RPS
 older player shows:
 
-younger player shows:
+younger player shows: Schere
